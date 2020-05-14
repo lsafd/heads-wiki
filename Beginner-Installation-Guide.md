@@ -1,6 +1,6 @@
 # Heads Installation Guide
 
-![Heads boot ROM motd](https://farm9.staticflickr.com/8638/28577284936_c91100d1f7_z_d.jpg)
+![Heads booting on an x230](images/Heads_booting_on_an_x230.jpg)
 
 ## Why Heads?:
 
