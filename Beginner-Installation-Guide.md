@@ -17,7 +17,7 @@ As you read, remember that while the Thinkpad x230 has two SPI flash chips, many
 ## What You Will Need:
 
 * Supported motherboard or laptop (List of supported boards in `./boards`) 
-* [Spi Programmer](https://trmm.net/SPI_flash):ch341a programmer or raspberry pi or bus pirate (ch341a is recommended for new users and can be found almost [anywhere](https://www.amazon.com/s?k=ch341a+programmer))
+* [Spi Programmer](https://trmm.net/SPI_flash): ch341a programmer or raspberry pi or bus pirate (ch341a is recommended for new users and can be found almost [anywhere](https://www.amazon.com/s?k=ch341a+programmer))
 * Wires and a clip to connect your programmer of choice to the board’s SPI flash chip(s)
 * If you plan to use a ch341a programmer you will need another computer to flash from (Try to use a recommended operating system: Qubes or Debian 9 or Fedora 30)
 * USB flash drive
